@@ -1,0 +1,39 @@
+Best Acc epoch:   1 | Acc: 0.532683 | FScore: 0.190263 | mIoU: 0.712782 | Avg: 0.622732 
+Best mIoU epoch:  1 | Acc: 0.532683 | FScore: 0.190263 | mIoU: 0.712782 | Avg: 0.622732 
+Best Avg epoch:   1 | Acc: 0.532683 | FScore: 0.190263 | mIoU: 0.712782 | Avg: 0.622732 
+Test: epoch: 2 loss: 964.268573 | Acc: 0.541712 | Precision: 0.864469 | Recall: 0.257370 | FScore: 0.224461 | mIoU: 0.728111 
+Best Acc epoch:   2 | Acc: 0.541712 | FScore: 0.224461 | mIoU: 0.728111 | Avg: 0.634912 
+Best mIoU epoch:  2 | Acc: 0.541712 | FScore: 0.224461 | mIoU: 0.728111 | Avg: 0.634912 
+Best Avg epoch:   2 | Acc: 0.541712 | FScore: 0.224461 | mIoU: 0.728111 | Avg: 0.634912 
+Test: epoch: 3 loss: 946.907344 | Acc: 0.599494 | Precision: 0.769102 | Recall: 0.319135 | FScore: 0.313898 | mIoU: 0.749327 
+Best Acc epoch:   3 | Acc: 0.599494 | FScore: 0.313898 | mIoU: 0.749327 | Avg: 0.674411 
+Best mIoU epoch:  3 | Acc: 0.599494 | FScore: 0.313898 | mIoU: 0.749327 | Avg: 0.674411 
+Best Avg epoch:   3 | Acc: 0.599494 | FScore: 0.313898 | mIoU: 0.749327 | Avg: 0.674411 
+Test: epoch: 4 loss: 907.313245 | Acc: 0.642831 | Precision: 0.690708 | Recall: 0.359920 | FScore: 0.359289 | mIoU: 0.763441 
+Best Acc epoch:   4 | Acc: 0.642831 | FScore: 0.359289 | mIoU: 0.763441 | Avg: 0.703136 
+Best mIoU epoch:  4 | Acc: 0.642831 | FScore: 0.359289 | mIoU: 0.763441 | Avg: 0.703136 
+Best Avg epoch:   4 | Acc: 0.642831 | FScore: 0.359289 | mIoU: 0.763441 | Avg: 0.703136 
+Test: epoch: 5 loss: 902.365202 | Acc: 0.651860 | Precision: 0.705953 | Recall: 0.385402 | FScore: 0.318664 | mIoU: 0.769343 
+Best Acc epoch:   5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
+Best mIoU epoch:  5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
+Best Avg epoch:   5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
+Test: epoch: 6 loss: 908.930330 | Acc: 0.619718 | Precision: 0.638912 | Recall: 0.363802 | FScore: 0.301477 | mIoU: 0.767499 
+Best Acc epoch:   5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
+Best mIoU epoch:  5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
+Best Avg epoch:   5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
+Test: epoch: 7 loss: 935.746314 | Acc: 0.628025 | Precision: 0.665743 | Recall: 0.384179 | FScore: 0.327037 | mIoU: 0.757650 
+Best Acc epoch:   5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
+Best mIoU epoch:  5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
+Best Avg epoch:   5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
+Test: epoch: 8 loss: 927.749185 | Acc: 0.632358 | Precision: 0.721243 | Recall: 0.331290 | FScore: 0.321607 | mIoU: 0.763130 
+Best Acc epoch:   5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
+Best mIoU epoch:  5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
+Best Avg epoch:   5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
+Test: epoch: 9 loss: 940.814002 | Acc: 0.594077 | Precision: 0.659669 | Recall: 0.351707 | FScore: 0.282665 | mIoU: 0.760166 
+Best Acc epoch:   5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
+Best mIoU epoch:  5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
+Best Avg epoch:   5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
+Test: epoch: 10 loss: 915.762725 | Acc: 0.615023 | Precision: 0.667541 | Recall: 0.366349 | FScore: 0.301120 | mIoU: 0.766701 
+Best Acc epoch:   5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
+Best mIoU epoch:  5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
+Best Avg epoch:   5 | Acc: 0.651860 | FScore: 0.318664 | mIoU: 0.769343 | Avg: 0.710601 
