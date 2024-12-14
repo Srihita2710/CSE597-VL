@@ -11,7 +11,7 @@ PyTorch, numpy, pandas, scipy, scikit-learn, timm, transformers, h5py
 
 ## Directory Structure
 
-- `checkpoints/`: Trained model weights. Download here: [Checkpoint Link](https://drive.google.com/file/d/1-EXAMPLECHECKPOINTLINK/view?usp=sharing).
+- `checkpoints/`: Trained model weights. 
 - `dataset/`:
   - `bertvocab/v2`: BERT tokenizer.
   - `EndoVis-18-VQLA/`: Dataset for training and evaluation.
